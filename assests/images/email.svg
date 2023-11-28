@@ -1,0 +1,13 @@
+<svg id="Group_1463" data-name="Group 1463" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60.092" height="60.092" viewBox="0 0 60.092 60.092">
+  <defs>
+    <linearGradient id="linear-gradient" y1="-0.133" x2="1.152" y2="1.307" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#005287"/>
+      <stop offset="1" stop-color="#00395f"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_25" data-name="Rectangle 25" width="60.092" height="60.092" rx="8" transform="translate(0)" fill="url(#linear-gradient)"/>
+  <g id="noun-mail-4689390" transform="translate(13.557 17.173)">
+    <path id="Path_270" data-name="Path 270" d="M189.385,140H163.517a4.143,4.143,0,0,0-3.915,4.324v.6l16.056,8.649h.049a1.36,1.36,0,0,0,1.437,0h.049l16.106-8.649v-.6A4.11,4.11,0,0,0,189.385,140Z" transform="translate(-159.602 -140)" fill="#b1ef9b"/>
+    <path id="Path_271" data-name="Path 271" d="M176.453,224.252a3.183,3.183,0,0,1-1.685-.493L159.6,215.6v14.068A4.145,4.145,0,0,0,163.516,234h25.922a4.143,4.143,0,0,0,3.915-4.324V215.6l-15.167,8.211a4.073,4.073,0,0,1-1.735.438Z" transform="translate(-159.601 -208.213)" fill="#b1ef9b"/>
+  </g>
+</svg>
